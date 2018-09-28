@@ -1,0 +1,141 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1538127395349">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/basejava/src/ArrayStorage.java" timestamp="1538127251465">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="20" column="32" />
+        <mark key="]" line="20" column="32" />
+        <mark key="." line="20" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/meee/src/Predelii.java" timestamp="1528974682702">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="18" column="44" />
+        <mark key="]" line="18" column="45" />
+        <mark key="." line="18" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/ekzamen/src/Predel.java" timestamp="1528973404180">
+        <mark key="[" line="23" column="14" />
+        <mark key="]" line="23" column="14" />
+        <mark key="." line="23" column="14" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled/src/Kotoman.html" timestamp="1524491252084">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled/src/Media.html" timestamp="1524921351633">
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/basejava/src/basejava.java" timestamp="1528442784927">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled/src/MyFirstGame.java" timestamp="1528288866027">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled/src/1.html" timestamp="1524921254607">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1528444687896">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled/src/Kotoman.java" timestamp="1524921195240">
+        <mark key="[" line="8" column="25" />
+        <mark key="k" line="8" column="4" />
+        <mark key="m" line="3" column="1" />
+        <mark key="]" line="8" column="25" />
+        <mark key="." line="8" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="4" column="5" filename="$USER_HOME$/IdeaProjects/untitled/src/1.html" />
+      <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/untitled/src/Media.html" />
+      <jump line="1" column="0" filename="$USER_HOME$/IdeaProjects/untitled/src/MyFirstGame.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/untitled/src/MyFirstGame.java" />
+      <jump line="29" column="0" filename="$USER_HOME$/Documents/basejava/src/ArrayStorage.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/basejava/src/ArrayStorage.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/meee/src/Predelii.java" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">CiAgICBSZXN1bWUgZ2V0KFN0cmluZyB1dWlkKSB7Cg==</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">cnQgamF2YS51dGlsLkFycmF5czsKCgpwdWJsaWMgY2xhc3MgQXJyYXlTdG9yYWdlIHsKICAgIFJlc3VtZVtdIHN0b3JhZ2UgPSBuZXcgUmVzdW1lWzEwMDAwXTsKCiAgICBpbnQgc2l6ZSA9IDA7CgogICAgdm9pZCBjbGVhcigpIHsKICAgICAgICBBcnJheXMuZmlsbChzdG9yYWdlLCAwLCBzaXplLCBudWxsKTsKICAgICAgICBzaXplID0wOwogICAgfQoKICAgIHZvaWQgc2F2ZShSZXN1bWUgcmVzdW1lKSB7CiAgICAgICAgaWYoc2l6ZSA8IHN0b3JhZ2UubGVuZ3RoICl7CiAgICAgICAgICAgIHN0b3JhZ2Vbc2l6ZV0gPSByZXN1bWU7CiAgICAgICAgICAgIHNpemUrKzsKICAgICAgICB9CiAgICB9CgogICAgUmVzdW1lIGdldChTdHJpbmcgdXVpZCkgewogICAgICAgIGlmKHN0b3JhZ2VbMF0udXVpZCA9PSB1dWlkICl7CiAgICAgICAgICAgIHJldHVybiBzdG9yYWdlWzBdOwogICAgICAgIH0KICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICB2b2lkIGRlbGV0ZShTdHJpbmcgdXVpZCkgewogICAgICAgIGZvcihpbnQgaSA9IDA7IGkgPCBzaXplOyBpICsrKSB7CiAgICAgICAgICAgIGlmKHN0b3JhZ2VbaV0udXVpZC5lcXVhbHModXVpZCkpewogICAgICAgICAgICAgICAgc3RvcmFnZVtpXSA9IHN0b3JhZ2Vbc2l6ZSAtIDFdOwogICAgICAgICAgICAgICAgc3RvcmFnZVtzaXplIC0xXSA9IG51bGw7CiAgICAgICAgICAgICAgICBzaXplLS07CiAgICAgICAgICAgICAgICByZXR1cm47CgogICAgICAgICAgICB9CgoKCiAgICB9CiAgICAvKioKICAgICAqIEByZXR1cm4gYXJyYXksIGNvbnRhaW5zIG9ubHkgUmVzdW1lcyBpbiBzdG9yYWdlICh3aXRob3V0IG51bGwpCiAgICAgKi8KICAgIFJlc3VtZVtdIGdldEFsbCgpIHsKICAgICAgICByZXR1cm4gQXJyYXlzLmNvcHlPZihzdG9yYWdlLCBzaXplKTsKICAgICAgICB9CgogICAgaW50IHNpemUoKSB7CiAgICAgICAgcmV0dXJuIDA7CiAgICB9Cn0=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>i</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oItCS0LLQtdC00LjRgtC1INGH0LjRgdC70L4gYT0gIik7Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">PGJvZHk+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CjwvYm9keT4K</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5Pg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">dHlwPD7Qn9Cw0YDQvtC70Yw6PC9zdHJvbmc+Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">PgogIDwvdHlw</text>
+      </register>
+      <register name="-" type="4">
+        <text>i</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
